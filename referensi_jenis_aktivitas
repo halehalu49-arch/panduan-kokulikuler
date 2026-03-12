@@ -1,0 +1,90 @@
+{
+  "referensi_jenis_aktivitas": [
+    {
+      "id_aktivitas": "AKT-01",
+      "kategori_aktivitas": "Aktivitas Praktikal",
+      "deskripsi": "Aktivitas yang melibatkan praktik langsung, olah fisik, atau pembuatan karya nyata.",
+      "contoh_kegiatan": [
+        "Berkebun",
+        "Bertukang",
+        "Mengolah bahan pangan",
+        "Membuat model/maket/instalasi",
+        "Berniaga",
+        "Kegiatan olah fisik"
+      ]
+    },
+    {
+      "id_aktivitas": "AKT-02",
+      "kategori_aktivitas": "Aktivitas Keagamaan",
+      "deskripsi": "Aktivitas yang menguatkan karakter murid dengan mengaplikasikan pemahaman agamanya di kehidupan nyata.",
+      "contoh_kegiatan": [
+        "Keterlibatan dalam perayaan keagamaan (misal: penyembelihan hewan Qurban)",
+        "Berbagi pengalaman spiritual atau agama dengan teman sekelas",
+        "Praktik ibadah bersama"
+      ]
+    },
+    {
+      "id_aktivitas": "AKT-03",
+      "kategori_aktivitas": "Kunjungan / Pemanfaatan Fasilitas Umum",
+      "deskripsi": "Pemanfaatan fasilitas umum atau ruang publik sebagai ruang belajar di luar kelas.",
+      "contoh_kegiatan": [
+        "Kunjungan ke cagar budaya",
+        "Kunjungan ke museum",
+        "Pemanfaatan perpustakaan daerah",
+        "Kunjungan ke kantor pemerintahan",
+        "Kunjungan ke tempat ibadah",
+        "Observasi di pasar",
+        "Kunjungan ke sanggar budaya",
+        "Eksplorasi menggunakan transportasi umum"
+      ]
+    },
+    {
+      "id_aktivitas": "AKT-04",
+      "kategori_aktivitas": "Aktivitas Penelitian (Pengumpulan & Penyajian Data)",
+      "deskripsi": "Aktivitas yang melibatkan pengumpulan data (diri sendiri, orang lain, atau objek pengamatan) dan menyajikannya ke dalam berbagai bentuk.",
+      "contoh_kegiatan": [
+        "Mengisi jurnal ibadah atau olahraga",
+        "Mencatat perkembangan emosi dan pemikiran",
+        "Wawancara",
+        "Observasi lapangan",
+        "Melakukan presentasi data",
+        "Membuat infografis",
+        "Membuat video blog (vlog)"
+      ]
+    },
+    {
+      "id_aktivitas": "AKT-05",
+      "kategori_aktivitas": "Aktivitas Penelitian (Riset & Studi Literatur)",
+      "deskripsi": "Aktivitas mengumpulkan, mendiskusikan, dan menganalisis informasi dari berbagai sumber terpercaya.",
+      "contoh_kegiatan": [
+        "Mencari informasi dari buku referensi",
+        "Menganalisis data dari situs web",
+        "Menganalisis video atau infografis",
+        "Diskusi dan analisis informasi literatur"
+      ]
+    },
+    {
+      "id_aktivitas": "AKT-06",
+      "kategori_aktivitas": "Aktivitas Advokasi",
+      "deskripsi": "Aktivitas menyuarakan atau menyosialisasikan isu-isu penting yang berkaitan dengan perilaku masyarakat (misal: hemat energi, bahaya rokok, ketahanan pangan).",
+      "contoh_kegiatan": [
+        "Kampanye lingkungan/sosial",
+        "Sosialisasi isu publik",
+        "Penyuluhan",
+        "Mengadakan talkshow",
+        "Penyampaian aspirasi kepada pejabat pemerintah"
+      ]
+    },
+    {
+      "id_aktivitas": "AKT-07",
+      "kategori_aktivitas": "Pelibatan Narasumber",
+      "deskripsi": "Aktivitas yang melibatkan elemen masyarakat untuk berbagi pengetahuan atau keterampilan terapan yang dikuasai.",
+      "contoh_kegiatan": [
+        "Wawancara dengan tokoh adat setempat",
+        "Belajar langsung dari pelaku UMKM",
+        "Sesi berbagi dengan orangtua murid yang memiliki beragam pekerjaan",
+        "Mengundang praktisi profesional sebagai guru tamu"
+      ]
+    }
+  ]
+}
