@@ -1,0 +1,44 @@
+{
+  "dimensi_profil_lulusan": [
+    {
+      "id": 1,
+      "nama_dimensi": "Keimanan dan Ketakwaan terhadap Tuhan YME",
+      "deskripsi": "Dimensi keimanan dan ketakwaan terhadap Tuhan Yang Maha Esa mengacu pada individu yang memiliki keyakinan dan mengamalkan ajaran agama/kepercayaannya, berakhlak mulia, serta menjaga hubungan dengan Tuhan Yang Maha Esa, sesama manusia, dan lingkungan [2, 3]."
+    },
+    {
+      "id": 2,
+      "nama_dimensi": "Kewargaan",
+      "deskripsi": "Dimensi kewargaan mengacu pada individu yang bangga akan identitas dan budayanya, menghargai keberagaman, menjaga persatuan bangsa, menaati aturan bernegara dan bermasyarakat, serta menjaga keberlanjutan kehidupan, lingkungan, dan harmoni antarbangsa [2, 3]."
+    },
+    {
+      "id": 3,
+      "nama_dimensi": "Penalaran Kritis",
+      "deskripsi": "Dimensi penalaran kritis mengacu pada individu yang memiliki rasa ingin tahu, mampu berpikir logis dan analitis, serta mampu menganalisis dan menyelesaikan permasalahan, berargumentasi logis, dan memanfaatkan literasi dan numerasi untuk memecahkan masalah [2, 4]."
+    },
+    {
+      "id": 4,
+      "nama_dimensi": "Kreativitas",
+      "deskripsi": "Dimensi kreativitas mengacu pada individu yang mampu berperilaku produktif, menciptakan inovasi, dan merumuskan solusi bagi permasalahan di sekitarnya [2, 4]."
+    },
+    {
+      "id": 5,
+      "nama_dimensi": "Kolaborasi",
+      "deskripsi": "Dimensi kolaborasi mengacu pada individu yang membiasakan diri untuk peduli dan berbagi, serta membangun kerja sama dengan berbagai kalangan di lingkungan sekitar [2, 4]."
+    },
+    {
+      "id": 6,
+      "nama_dimensi": "Kemandirian",
+      "deskripsi": "Dimensi kemandirian mengacu pada individu yang mampu bertanggung jawab, berinisiatif, dan beradaptasi dalam pembelajaran dan pengembangan diri [2, 5]."
+    },
+    {
+      "id": 7,
+      "nama_dimensi": "Kesehatan",
+      "deskripsi": "Dimensi kesehatan mengacu pada individu yang menjalankan pola hidup bersih dan sehat berdasarkan pemahaman tentang kebugaran, kesehatan fisik dan mental, dan berkontribusi secara positif terhadap lingkungannya [2, 5]."
+    },
+    {
+      "id": 8,
+      "nama_dimensi": "Komunikasi",
+      "deskripsi": "Dimensi komunikasi mengacu pada individu yang memiliki kemampuan menyimak, membaca, berbicara, dan menulis dengan baik dan benar, sesuai etika dalam beragam konteks dan moda [2, 5]."
+    }
+  ]
+}
