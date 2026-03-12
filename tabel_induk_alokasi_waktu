@@ -1,0 +1,220 @@
+{
+  "tabel_induk_alokasi_waktu": [
+    {
+      "id": 1,
+      "kategori_pendidikan": "Pendidikan Anak Usia Dini",
+      "satuan_pendidikan": "PAUD atau bentuk lain yang sederajat",
+      "kelas": "PAUD",
+      "keterangan_program": null,
+      "alokasi_waktu_jp_per_tahun": "Ditetapkan oleh satuan pendidikan"
+    },
+    {
+      "id": 2,
+      "kategori_pendidikan": "Pendidikan Dasar",
+      "satuan_pendidikan": "SD/MI atau bentuk lain yang sederajat",
+      "kelas": "I",
+      "keterangan_program": null,
+      "alokasi_waktu_jp_per_tahun": 216
+    },
+    {
+      "id": 3,
+      "kategori_pendidikan": "Pendidikan Dasar",
+      "satuan_pendidikan": "SD/MI atau bentuk lain yang sederajat",
+      "kelas": "II",
+      "keterangan_program": null,
+      "alokasi_waktu_jp_per_tahun": 216
+    },
+    {
+      "id": 4,
+      "kategori_pendidikan": "Pendidikan Dasar",
+      "satuan_pendidikan": "SD/MI atau bentuk lain yang sederajat",
+      "kelas": "III-IV",
+      "keterangan_program": null,
+      "alokasi_waktu_jp_per_tahun": 252
+    },
+    {
+      "id": 5,
+      "kategori_pendidikan": "Pendidikan Dasar",
+      "satuan_pendidikan": "SD/MI atau bentuk lain yang sederajat",
+      "kelas": "V",
+      "keterangan_program": null,
+      "alokasi_waktu_jp_per_tahun": 252
+    },
+    {
+      "id": 6,
+      "kategori_pendidikan": "Pendidikan Dasar",
+      "satuan_pendidikan": "SD/MI atau bentuk lain yang sederajat",
+      "kelas": "VI",
+      "keterangan_program": null,
+      "alokasi_waktu_jp_per_tahun": 224
+    },
+    {
+      "id": 7,
+      "kategori_pendidikan": "Pendidikan Dasar",
+      "satuan_pendidikan": "SMP/MTs atau bentuk lain yang sederajat",
+      "kelas": "VII-VIII",
+      "keterangan_program": null,
+      "alokasi_waktu_jp_per_tahun": 360
+    },
+    {
+      "id": 8,
+      "kategori_pendidikan": "Pendidikan Dasar",
+      "satuan_pendidikan": "SMP/MTs atau bentuk lain yang sederajat",
+      "kelas": "IX",
+      "keterangan_program": null,
+      "alokasi_waktu_jp_per_tahun": 320
+    },
+    {
+      "id": 9,
+      "kategori_pendidikan": "Pendidikan Menengah (Umum)",
+      "satuan_pendidikan": "SMA/MA atau bentuk lain yang sederajat",
+      "kelas": "X",
+      "keterangan_program": null,
+      "alokasi_waktu_jp_per_tahun": 396
+    },
+    {
+      "id": 10,
+      "kategori_pendidikan": "Pendidikan Menengah (Umum)",
+      "satuan_pendidikan": "SMA/MA atau bentuk lain yang sederajat",
+      "kelas": "XI",
+      "keterangan_program": null,
+      "alokasi_waktu_jp_per_tahun": 144
+    },
+    {
+      "id": 11,
+      "kategori_pendidikan": "Pendidikan Menengah (Umum)",
+      "satuan_pendidikan": "SMA/MA atau bentuk lain yang sederajat",
+      "kelas": "XII",
+      "keterangan_program": null,
+      "alokasi_waktu_jp_per_tahun": 128
+    },
+    {
+      "id": 12,
+      "kategori_pendidikan": "Pendidikan Menengah (Kejuruan)",
+      "satuan_pendidikan": "SMK/MAK",
+      "kelas": "X",
+      "keterangan_program": null,
+      "alokasi_waktu_jp_per_tahun": 180
+    },
+    {
+      "id": 13,
+      "kategori_pendidikan": "Pendidikan Menengah (Kejuruan)",
+      "satuan_pendidikan": "SMK/MAK",
+      "kelas": "XI",
+      "keterangan_program": null,
+      "alokasi_waktu_jp_per_tahun": 144
+    },
+    {
+      "id": 14,
+      "kategori_pendidikan": "Pendidikan Menengah (Kejuruan)",
+      "satuan_pendidikan": "SMK/MAK",
+      "kelas": "XII",
+      "keterangan_program": "program 3 tahun",
+      "alokasi_waktu_jp_per_tahun": 32
+    },
+    {
+      "id": 15,
+      "kategori_pendidikan": "Pendidikan Menengah (Kejuruan)",
+      "satuan_pendidikan": "SMK/MAK",
+      "kelas": "XII",
+      "keterangan_program": "program 4 tahun",
+      "alokasi_waktu_jp_per_tahun": 144
+    },
+    {
+      "id": 16,
+      "kategori_pendidikan": "Pendidikan Menengah (Kejuruan)",
+      "satuan_pendidikan": "SMK/MAK",
+      "kelas": "XIII",
+      "keterangan_program": "program 4 tahun",
+      "alokasi_waktu_jp_per_tahun": 0
+    },
+    {
+      "id": 17,
+      "kategori_pendidikan": "Pendidikan Luar Biasa",
+      "satuan_pendidikan": "SDLB/MILB",
+      "kelas": "I",
+      "keterangan_program": null,
+      "alokasi_waktu_jp_per_tahun": 180
+    },
+    {
+      "id": 18,
+      "kategori_pendidikan": "Pendidikan Luar Biasa",
+      "satuan_pendidikan": "SDLB/MILB",
+      "kelas": "II",
+      "keterangan_program": null,
+      "alokasi_waktu_jp_per_tahun": 216
+    },
+    {
+      "id": 19,
+      "kategori_pendidikan": "Pendidikan Luar Biasa",
+      "satuan_pendidikan": "SDLB/MILB",
+      "kelas": "III-IV",
+      "keterangan_program": null,
+      "alokasi_waktu_jp_per_tahun": 252
+    },
+    {
+      "id": 20,
+      "kategori_pendidikan": "Pendidikan Luar Biasa",
+      "satuan_pendidikan": "SDLB/MILB",
+      "kelas": "V",
+      "keterangan_program": null,
+      "alokasi_waktu_jp_per_tahun": 252
+    },
+    {
+      "id": 21,
+      "kategori_pendidikan": "Pendidikan Luar Biasa",
+      "satuan_pendidikan": "SDLB/MILB",
+      "kelas": "VI",
+      "keterangan_program": null,
+      "alokasi_waktu_jp_per_tahun": 224
+    },
+    {
+      "id": 22,
+      "kategori_pendidikan": "Pendidikan Luar Biasa",
+      "satuan_pendidikan": "SMPLB/MTsLB",
+      "kelas": "VII",
+      "keterangan_program": null,
+      "alokasi_waktu_jp_per_tahun": 306
+    },
+    {
+      "id": 23,
+      "kategori_pendidikan": "Pendidikan Luar Biasa",
+      "satuan_pendidikan": "SMPLB/MTsLB",
+      "kelas": "VIII",
+      "keterangan_program": null,
+      "alokasi_waktu_jp_per_tahun": 306
+    },
+    {
+      "id": 24,
+      "kategori_pendidikan": "Pendidikan Luar Biasa",
+      "satuan_pendidikan": "SMPLB/MTsLB",
+      "kelas": "IX",
+      "keterangan_program": null,
+      "alokasi_waktu_jp_per_tahun": 272
+    },
+    {
+      "id": 25,
+      "kategori_pendidikan": "Pendidikan Luar Biasa",
+      "satuan_pendidikan": "SMALB/MALB",
+      "kelas": "X",
+      "keterangan_program": null,
+      "alokasi_waktu_jp_per_tahun": 378
+    },
+    {
+      "id": 26,
+      "kategori_pendidikan": "Pendidikan Luar Biasa",
+      "satuan_pendidikan": "SMALB/MALB",
+      "kelas": "XI",
+      "keterangan_program": null,
+      "alokasi_waktu_jp_per_tahun": 378
+    },
+    {
+      "id": 27,
+      "kategori_pendidikan": "Pendidikan Luar Biasa",
+      "satuan_pendidikan": "SMALB/MALB",
+      "kelas": "XII",
+      "keterangan_program": null,
+      "alokasi_waktu_jp_per_tahun": 336
+    }
+  ]
+}
