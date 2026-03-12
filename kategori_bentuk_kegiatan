@@ -1,0 +1,73 @@
+{
+  "kategori_bentuk_kegiatan": [
+    {
+      "id": 1,
+      "nama_kategori": "Pembelajaran Kolaboratif Lintas Disiplin Ilmu",
+      "deskripsi": "Kegiatan kokurikuler yang mengintegrasikan dua atau lebih mata pelajaran/muatan pembelajaran dalam satu tema yang relevan dengan kehidupan nyata murid.",
+      "tujuan_utama": "Membantu murid melihat keterkaitan antarilmu sebagai upaya mengembangkan dimensi profil lulusan serta memperdalam pemahaman melalui pengalaman kontekstual.",
+      "elemen_kegiatan": [],
+      "keterangan_tambahan": "Tema ditentukan oleh satuan pendidikan berdasarkan hasil analisis potensi dan kebutuhan. Di jenjang PAUD, hal ini dipahami seperti lintas aspek perkembangan sesuai karakteristik holistik."
+    },
+    {
+      "id": 2,
+      "nama_kategori": "Gerakan 7 Kebiasaan Anak Indonesia Hebat (7KAIH)",
+      "deskripsi": "Gerakan berbasis kebiasaan dan pembelajaran mendalam yang berfokus pada pembentukan karakter murid melalui pembangunan pembiasaan positif yang dilakukan secara rutin, konsisten, dan terencana.",
+      "tujuan_utama": "Membangun kebiasaan positif sehari-hari melalui ekosistem pendukung yang melibatkan Catur Pusat Pendidikan (satuan pendidikan, keluarga, masyarakat, dan media).",
+      "elemen_kegiatan": [
+        {
+          "id_sub": "7KAIH-1",
+          "nama_kebiasaan": "Bangun pagi"
+        },
+        {
+          "id_sub": "7KAIH-2",
+          "nama_kebiasaan": "Beribadah"
+        },
+        {
+          "id_sub": "7KAIH-3",
+          "nama_kebiasaan": "Berolahraga"
+        },
+        {
+          "id_sub": "7KAIH-4",
+          "nama_kebiasaan": "Makan sehat dan bergizi"
+        },
+        {
+          "id_sub": "7KAIH-5",
+          "nama_kebiasaan": "Gemar belajar"
+        },
+        {
+          "id_sub": "7KAIH-6",
+          "nama_kebiasaan": "Bermasyarakat"
+        },
+        {
+          "id_sub": "7KAIH-7",
+          "nama_kebiasaan": "Tidur Cepat"
+        }
+      ],
+      "keterangan_tambahan": "Implementasi dapat berupa jurnal kebiasaan harian, tantangan kelas mingguan, kampanye kebiasaan baik, dll."
+    },
+    {
+      "id": 3,
+      "nama_kategori": "Cara Lainnya",
+      "deskripsi": "Bentuk kegiatan kokurikuler yang dirancang khusus sesuai dengan nilai-nilai satuan pendidikan, potensi satuan pendidikan, kebutuhan murid, dan konteks lokal.",
+      "tujuan_utama": "Mengangkat identitas, konteks, dan kekuatan unik dari masing-masing satuan pendidikan untuk dijadikan sumber belajar yang terencana.",
+      "elemen_kegiatan": [
+        {
+          "id_sub": "CL-1",
+          "nama_kebiasaan": "Kegiatan Berbasis Konteks Lokal",
+          "contoh": "Kelas membatik, belajar permainan tradisional, praktik bertani atau berkebun."
+        },
+        {
+          "id_sub": "CL-2",
+          "nama_kebiasaan": "Kegiatan Berbasis Nilai Satuan Pendidikan",
+          "contoh": "Kegiatan berbasis nilai keagamaan (mengaji rutin), kegiatan latihan kepemimpinan."
+        },
+        {
+          "id_sub": "CL-3",
+          "nama_kebiasaan": "Kegiatan Monodisiplin dengan Kolaborasi Keilmuan",
+          "contoh": "Pagelaran seni atau pentas seni yang melibatkan berbagai keahlian."
+        }
+      ],
+      "keterangan_tambahan": "Syarat utamanya adalah terencana, melibatkan murid secara aktif, ada asesmen relevan, dan berorientasi pada 8 dimensi profil lulusan."
+    }
+  ]
+}
