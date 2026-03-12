@@ -1,0 +1,103 @@
+{
+  "database_asesmen": {
+    "jenis_asesmen": [
+      {
+        "id_jenis": "AS-01",
+        "nama_asesmen": "Asesmen Formatif",
+        "waktu_pelaksanaan": "Selama proses kegiatan kokurikuler berlangsung",
+        "tujuan": "Memberikan umpan balik yang bersifat membangun, membantu murid merefleksikan pembelajarannya, dan memberikan informasi bagi guru untuk menyesuaikan strategi pembelajaran."
+      },
+      {
+        "id_jenis": "AS-02",
+        "nama_asesmen": "Asesmen Sumatif",
+        "waktu_pelaksanaan": "Pada akhir kegiatan kokurikuler",
+        "tujuan": "Melihat sejauh mana tujuan pembelajaran (terutama pencapaian dimensi profil lulusan) telah tercapai melalui hasil akhir berupa karya, aksi, maupun presentasi."
+      }
+    ],
+    "metode_dan_instrumen": [
+      {
+        "id_metode": "MET-01",
+        "id_jenis_asesmen": "AS-01",
+        "kategori": "Observasi Keterlibatan Murid",
+        "instrumen_penilaian": [
+          "Catatan Anekdotal",
+          "Check List (Centang)"
+        ],
+        "keterangan": "Guru mengamati dinamika partisipasi dan sikap murid selama aktivitas berlangsung."
+      },
+      {
+        "id_metode": "MET-02",
+        "id_jenis_asesmen": "AS-01",
+        "kategori": "Jurnal dan Refleksi",
+        "instrumen_penilaian": [
+          "Jurnal Refleksi Harian Murid",
+          "Penilaian Diri (Self-Assessment)",
+          "Umpan Balik Teman Sebaya (Peer-Assessment)"
+        ],
+        "keterangan": "Terutama sangat cocok untuk bentuk kegiatan Gerakan 7 Kebiasaan Anak Indonesia Hebat (7KAIH)."
+      },
+      {
+        "id_metode": "MET-03",
+        "id_jenis_asesmen": "AS-01",
+        "kategori": "Interaksi Lisan",
+        "instrumen_penilaian": [
+          "Tanya-jawab terbuka"
+        ],
+        "keterangan": "Digunakan untuk memantau pemahaman murid secara responsif di tengah kegiatan."
+      },
+      {
+        "id_metode": "MET-04",
+        "id_jenis_asesmen": "AS-02",
+        "kategori": "Penilaian Kinerja",
+        "instrumen_penilaian": [
+          "Instrumen Rubrik"
+        ],
+        "keterangan": "Menilai presentasi akhir, laporan pengamatan, atau poster kampanye yang dibuat murid."
+      },
+      {
+        "id_metode": "MET-05",
+        "id_jenis_asesmen": "AS-02",
+        "kategori": "Penilaian Produk / Karya",
+        "instrumen_penilaian": [
+          "Instrumen Rubrik"
+        ],
+        "keterangan": "Menilai produk akhir seperti produk berbasis kebudayaan lokal (karya seni, video, pertunjukan)."
+      },
+      {
+        "id_metode": "MET-06",
+        "id_jenis_asesmen": "AS-02",
+        "kategori": "Lembar Penilaian Kebiasaan",
+        "instrumen_penilaian": [
+          "Instrumen Rubrik Berdasarkan Bukti Catatan Harian"
+        ],
+        "keterangan": "Digunakan untuk merekapitulasi dan menilai keberhasilan perubahan kebiasaan murid di akhir periode (misal pada kegiatan 7KAIH)."
+      }
+    ],
+    "skala_penilaian_rubrik": [
+      {
+        "id_skala": 4,
+        "kode": "SB",
+        "tingkat_pencapaian": "Sangat Baik",
+        "deskripsi_umum": "Murid secara konsisten dan mandiri menunjukkan penguasaan kompetensi/karakter yang sangat tinggi melampaui ekspektasi standar."
+      },
+      {
+        "id_skala": 3,
+        "kode": "B",
+        "tingkat_pencapaian": "Baik",
+        "deskripsi_umum": "Murid menunjukkan penguasaan kompetensi/karakter yang sesuai dengan ekspektasi standar secara konsisten."
+      },
+      {
+        "id_skala": 2,
+        "kode": "C",
+        "tingkat_pencapaian": "Cukup",
+        "deskripsi_umum": "Murid mulai menunjukkan kompetensi/karakter yang diharapkan, namun masih memerlukan dorongan atau belum sepenuhnya konsisten."
+      },
+      {
+        "id_skala": 1,
+        "kode": "K",
+        "tingkat_pencapaian": "Kurang",
+        "deskripsi_umum": "Murid belum mampu menunjukkan penguasaan kompetensi/karakter yang diharapkan dan memerlukan bimbingan intensif."
+      }
+    ]
+  }
+}
