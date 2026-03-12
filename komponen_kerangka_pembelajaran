@@ -1,0 +1,108 @@
+{
+  "komponen_kerangka_pembelajaran": [
+    {
+      "id_komponen": 1,
+      "nama_komponen": "Praktik Pedagogis",
+      "deskripsi": "Pendekatan pembelajaran aktif yang menempatkan pendidik sebagai aktivator dan kolaborator untuk membangun makna secara reflektif.",
+      "opsi_pilihan": [
+        {
+          "id_opsi": "PP-01",
+          "nama": "Pembelajaran Berbasis Penyelidikan (Inquiry)"
+        },
+        {
+          "id_opsi": "PP-02",
+          "nama": "Pembelajaran Berbasis Proyek (Project-Based Learning)"
+        },
+        {
+          "id_opsi": "PP-03",
+          "nama": "Pembelajaran Berbasis Masalah"
+        },
+        {
+          "id_opsi": "PP-04",
+          "nama": "Ruang Eksplorasi (Mandiri/Kolaboratif)"
+        }
+      ]
+    },
+    {
+      "id_komponen": 2,
+      "nama_komponen": "Lingkungan Pembelajaran",
+      "deskripsi": "Pemaknaan ruang belajar yang luas, aman, terbuka, inklusif, dan menghargai keberagaman.",
+      "opsi_pilihan": [
+        {
+          "id_opsi": "LP-01",
+          "nama": "Area di Dalam Satuan Pendidikan (Kelas/Ruang Terbuka)"
+        },
+        {
+          "id_opsi": "LP-02",
+          "nama": "Area Sekitar Satuan Pendidikan"
+        },
+        {
+          "id_opsi": "LP-03",
+          "nama": "Komunitas Lokal"
+        },
+        {
+          "id_opsi": "LP-04",
+          "nama": "Ruang Digital"
+        }
+      ]
+    },
+    {
+      "id_komponen": 3,
+      "nama_komponen": "Kemitraan Pembelajaran (Catur Pusat Pendidikan)",
+      "deskripsi": "Pihak-pihak yang dilibatkan untuk membuat kegiatan menjadi efektif, berkesinambungan, dan berdampak masif.",
+      "opsi_pilihan": [
+        {
+          "id_opsi": "KP-01",
+          "nama": "Satuan Pendidikan",
+          "sub_opsi": ["Kepala Satuan Pendidikan", "Pendidik", "Tenaga Kependidikan", "Warga Satuan Pendidikan Lainnya"]
+        },
+        {
+          "id_opsi": "KP-02",
+          "nama": "Keluarga",
+          "sub_opsi": ["Orang Tua/Wali", "Anggota Keluarga Lainnya"]
+        },
+        {
+          "id_opsi": "KP-03",
+          "nama": "Masyarakat",
+          "sub_opsi": ["Komunitas Lokal", "Dunia Usaha Dunia Industri (DUDI)", "Tokoh Masyarakat", "Tokoh Agama"]
+        },
+        {
+          "id_opsi": "KP-04",
+          "nama": "Media",
+          "sub_opsi": ["Media Sosial", "Media Konvensional"]
+        }
+      ]
+    },
+    {
+      "id_komponen": 4,
+      "nama_komponen": "Pemanfaatan Teknologi Digital",
+      "deskripsi": "Alat bantu untuk memperluas akses dan memperkaya pengalaman belajar murid.",
+      "opsi_pilihan": [
+        {
+          "id_opsi": "TD-01",
+          "nama": "Pencarian Referensi"
+        },
+        {
+          "id_opsi": "TD-02",
+          "nama": "Dokumentasi Proses Belajar"
+        },
+        {
+          "id_opsi": "TD-03",
+          "nama": "Penyampaian Pesan / Publikasi Hasil"
+        },
+        {
+          "id_opsi": "TD-04",
+          "nama": "Kolaborasi Jarak Jauh"
+        },
+        {
+          "id_opsi": "TD-05",
+          "nama": "Visualisasi Ide Kreatif"
+        },
+        {
+          "id_opsi": "TD-06",
+          "nama": "Asesmen dan Pertukaran Informasi"
+        }
+      ]
+    }
+  ]
+}
