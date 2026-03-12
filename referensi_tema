@@ -1,0 +1,50 @@
+{
+  "referensi_tema": [
+    {
+      "id": 1,
+      "nama_tema": "Generasi sehat dan bugar",
+      "tipe_tema": "Inspirasi Panduan",
+      "deskripsi": "Tema yang berfokus pada kesehatan fisik, mental, kebugaran, dan gaya hidup sehat murid."
+    },
+    {
+      "id": 2,
+      "nama_tema": "Peduli dan berbagi",
+      "tipe_tema": "Inspirasi Panduan",
+      "deskripsi": "Tema yang mendorong kolaborasi, empati, dan kepedulian terhadap sesama dan lingkungan sosial."
+    },
+    {
+      "id": 3,
+      "nama_tema": "Aku cinta Indonesia",
+      "tipe_tema": "Inspirasi Panduan",
+      "deskripsi": "Tema untuk memperkuat identitas nasional, nasionalisme, dan pelestarian budaya kebangsaan."
+    },
+    {
+      "id": 4,
+      "nama_tema": "Hidup hemat dan produktif",
+      "tipe_tema": "Inspirasi Panduan",
+      "deskripsi": "Tema yang menanamkan kemandirian, kewirausahaan, dan manajemen sumber daya yang bijak."
+    },
+    {
+      "id": 5,
+      "nama_tema": "Berkarya untuk sesama dan bangsa",
+      "tipe_tema": "Inspirasi Panduan",
+      "deskripsi": "Tema yang mendorong kreativitas, inovasi, dan penciptaan solusi/karya yang bermanfaat secara luas."
+    },
+    {
+      "id": 6,
+      "nama_tema": "Gaya hidup berkelanjutan",
+      "tipe_tema": "Inspirasi Panduan",
+      "deskripsi": "Tema yang berkaitan dengan kesadaran lingkungan, ekosistem, dan dampak aktivitas manusia terhadap bumi."
+    },
+    {
+      "id": 7,
+      "nama_tema": "Tema Lainnya (Konteks Lokal)",
+      "tipe_tema": "Kustomisasi Satuan Pendidikan",
+      "deskripsi": "Tema yang dikembangkan secara mandiri oleh satuan pendidikan berdasarkan kebutuhan murid, potensi lokal, atau isu spesifik."
+    }
+  ],
+  "keterangan_sistem": {
+    "fungsi_tema": "Menyatukan berbagai gagasan yang mengaitkan kegiatan kokurikuler dengan konteks sosial budaya dan karakteristik murid.",
+    "catatan_pengembangan": "Aplikasi harus memungkinkan pengguna (satuan pendidikan) untuk menambahkan 'Tema Lainnya' (ID 7) ke dalam database secara dinamis sesuai konteks mereka."
+  }
+}
